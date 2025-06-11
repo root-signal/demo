@@ -744,6 +744,7 @@ ul.bulletList {
 
 .bulletList li {
   margin-bottom: 10px;
+  line-height: 1.4;
 }
 
 /*Contact Layout*/
