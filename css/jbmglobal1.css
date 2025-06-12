@@ -138,7 +138,7 @@ ul {
 
 #topMenu {
   width: 970px;
-  height: 42px;
+  height: 62px;
   background-image: url(../images/transbg.png);
   background-repeat: repeat;
 }
@@ -201,9 +201,15 @@ a#button5 {
   width: 970px;
   height: 140px;
   background-color: #971b1e;
-  background-image: url(../images/slogan.gif);
-  background-repeat: no-repeat;
-  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 100;
+  letter-spacing: 7%;
 }
 
 #sloganFoot {
@@ -723,8 +729,8 @@ ul#picEmp {
 }
 
 ul#picBio {
-  background-image: url(../images/BioPics.jpg);
-  height: 538px;
+  background-image: url(../images/courthouse.jpeg);
+  height: 146px;
   width: 214px;
 }
 
