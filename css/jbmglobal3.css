@@ -794,3 +794,8 @@ ul.layContact li {
 .at {
   font-size: smaller;
 }
+
+.strong-red strong {
+  color: #971b1e;
+  font-size: 1rem;
+}
