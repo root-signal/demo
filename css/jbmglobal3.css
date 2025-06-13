@@ -223,7 +223,6 @@ a#button5 {
   color: white;
   font-size: 3rem;
   font-weight: 800;
-  text-transform: uppercase;
 }
 
 #sloganBar h1 span {
@@ -231,7 +230,6 @@ a#button5 {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   display: block;
   font-weight: 100;
-  text-transform: capitalize;
 }
 
 #sloganFoot {
